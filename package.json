@@ -1,0 +1,9 @@
+{
+  "name": "ruler_guides",
+  "title": "ruler_guides",
+  "id": "jid1-b1K5ejXcHpeetg",
+  "description": "Photoshop-like guides and rulers interface on a web page. Guides are created by click-and-dragging corresponding horizontal or vertical ruler. Guide position is shown while dragging and on mouse over.",
+  "author": "Jitendra Joshi",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
